@@ -15,7 +15,7 @@ We want to expand our preliminary results on the SARS-CoV-2 to other viruses and
   <div class="container marketing">
         <div class="row">
           <div class="col-lg-4">
-            <img class="rounded-circle" src="https://3fcampus.mef.edu.tr/uploads/cms/psy.mef.edu.tr/5773_4_th.jpeg" width="140" height="140">
+            <img class="rounded-circle" src="/alisan.jpeg" width="140" height="140">
             <h2>Alisan Kayabolen, PhD</h2>
             <p>Post-doctoral Fellow in Molecular Biology</p>
             <a class="btn btn-social-icon btn-twitter">
