@@ -13,21 +13,21 @@
             <img class="rounded-circle" src="https://3fcampus.mef.edu.tr/uploads/cms/psy.mef.edu.tr/5773_4_th.jpeg" alt="Generic placeholder image" width="140" height="140">
             <h2>Alisan Kayabolen, PhD</h2>
             <p>Post-doctoral Fellow in Molecular Biology</p>
-             <a class="btn btn-social btn-twitter">
-    <span class="fa fa-twitter"></span>
+             <a href="https://twitter.com/alisankayabolen">
+    <i class="fab fa-twitter-square"></i>
   </a>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" alt="Generic placeholder image" width="140" height="140">
             <h2>Ugur Akcan</h2>
             <p>PhD Candidate in Neuroscience</p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">d
             <img class="rounded-circle" src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" alt="Generic placeholder image" width="140" height="140">
             <h2>Dogancan Ozturan</h2>
             <p>PhD Candidate in Biomedical Sciences</p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            
           </div><!-- /.col-lg-4 -->
         </div>
       </div>
