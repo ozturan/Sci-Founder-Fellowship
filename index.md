@@ -12,8 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Inventors
 <div align="center">
-<img src="https://3fcampus.mef.edu.tr/uploads/cms/psy.mef.edu.tr/5773_4_th.jpeg" height="150" width="200" style="border-radius:50">
-
+<img src="https://3fcampus.mef.edu.tr/uploads/cms/psy.mef.edu.tr/5773_4_th.jpeg" height="200" width="200" style="border-radius:50">
+Alişan Kayabölen
 
 <img src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" height="200" width="200" style="border-radius:50">
+Doğancan Özturan
 </div>
