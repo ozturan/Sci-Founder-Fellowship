@@ -11,6 +11,19 @@ Viruses use receptor proteins to enter host cells. Solubilized decoy receptors h
 We want to expand our preliminary results on the SARS-CoV-2 to other viruses and diseases. Simply, after identifying the receptors that disease-causing viruses use for cell entry, our aim is to prepare a SunTag-fused receptor library. Then, we will characterize all the library elements in terms of their viral neutralization efficiency. Finally, we will determine potential drugs to be used in clinical trials for these diseases.
 
 
+<div class="col-sm-6 col-md-6 col-xs-6">
+              <div class="thumbnail" style="border:none; background:white;">
+              <div class="col-sm-6 col-md-6 col-xs-12 image-container">
+                <img src="images/online_learning.jpg" style="height:200px; margin-left:-15px;" />
+              </div>
+              <div class="col-sm-6 col-md-6 col-xs-12">  
+                <h3>Hello World</h3>
+                 <p style="font-size:10px; color:#03225C;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit adipiscing blandit. Aliquam placerat, velit a fermentum fermentum, mi felis vehicula justo, a dapibus quam augue non massa.   </p>
+              </div>
+              </div>
+ </div>
+
+
 ### Check out our BioRxiv preprint
 
 [https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract](https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract)
