@@ -1,5 +1,7 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
  <div class="container marketing">
       <div class="row featurette">
           <div class="col-md-7">
@@ -21,10 +23,10 @@
 <div class="container marketing">
       <div class="row featurette">
           <div class="col-md-7">
-            <a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract">
+            <a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract">https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract</a>
           </div>
           <div class="col-md-5">
-           <img class="featurette-image img-fluid mx-auto" src="ss.png"></a>
+           <a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract"><img class="featurette-image img-fluid mx-auto" src="ss.png"></a>
           </div>
         </div>
       </div>
@@ -38,8 +40,8 @@
             <img class="rounded-circle" src="alisan.png" width="140" height="140">
             <h2>Alisan Kayabolen, PhD</h2>
             <p>Post-doctoral Fellow in Molecular Biology</p>
-            <a class="btn btn-social-icon btn-twitter">
-    <span class="fa fa-twitter"></span>
+            <a href="https://twitter.com/alisankayabolen">
+    <i class="fa fa-twitter"></i>
   </a>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
