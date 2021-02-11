@@ -23,10 +23,10 @@
 <div class="container marketing">
       <div class="row featurette">
           <div class="col-md-7">
-            <a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract" target="_blank">https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract</a>
+            <a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1" target="_blank">https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract</a>
           </div>
           <div class="col-md-5">
-           <a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract" target="_blank"><img class="featurette-image img-fluid mx-auto" src="ss.png"></a>
+           <a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1" target="_blank"><img class="featurette-image img-fluid mx-auto" src="ss.png"></a>
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@
             <img class="rounded-circle" src="alisan.png" width="140" height="140">
             <h2>Alisan Kayabolen, PhD</h2>
             <p>Post-doctoral Fellow in Molecular Biology</p>
-            <a href="https://twitter.com/alisankayabolen">
+            <a href="https://twitter.com/alisankayabolen" target="_blank">
     <i class="fa fa-twitter"></i>
   </a>
           </div><!-- /.col-lg-4 -->
@@ -48,7 +48,7 @@
             <img class="rounded-circle" src="ugur.png" width="140" height="140">
             <h2>Ugur Akcan</h2>
             <p>PhD Candidate in Neuroscience</p>
-               <a href="https://twitter.com/occludens">
+               <a href="https://twitter.com/occludens" target="_blank">
     <i class="fa fa-twitter"></i>
   </a>
           </div><!-- /.col-lg-4 -->   
@@ -56,7 +56,7 @@
             <img class="rounded-circle" src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" width="140" height="140">
             <h2>Dogancan Ozturan</h2>
             <p>PhD Candidate in Biomedical Sciences</p>  
-               <a href="https://twitter.com/dogancan">
+               <a href="https://twitter.com/dogancan" target="_blank">
     <i class="fa fa-twitter"></i>
   </a>
           </div><!-- /.col-lg-4 -->
