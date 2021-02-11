@@ -13,7 +13,9 @@
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
             <h2>Alisan Kayabolen, PhD</h2>
             <p>Post-doctoral Fellow</p>
-            <p><a class="fa fa-twitter" href="#" role="button">View details &raquo;</a></p>
+             <a class="btn btn-block btn-social btn-twitter">
+    <span class="fa fa-twitter"></span> Sign in with Twitter
+  </a>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
