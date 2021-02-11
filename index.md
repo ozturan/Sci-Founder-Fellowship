@@ -11,10 +11,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ### Inventors
-
-img[src~="thumbnail"] {
-   width:150px;
-   height:100px;
-}
-
-![Image](https://lacklab.ku.edu.tr/images/dogancan_s.jpg# thumbnail)
+<img src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
