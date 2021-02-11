@@ -13,8 +13,8 @@
             <img class="rounded-circle" src="https://3fcampus.mef.edu.tr/uploads/cms/psy.mef.edu.tr/5773_4_th.jpeg" alt="Generic placeholder image" width="140" height="140">
             <h2>Alisan Kayabolen, PhD</h2>
             <p>Post-doctoral Fellow in Molecular Biology</p>
-             <a href="https://twitter.com/alisankayabolen">
-    <i class="fab fa-twitter-square"></i>
+            <a class="btn btn-social-icon btn-twitter">
+    <span class="fa fa-twitter"></span>
   </a>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
