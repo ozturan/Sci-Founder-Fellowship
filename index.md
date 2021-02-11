@@ -9,14 +9,27 @@
 <p>We want to expand our preliminary results on the SARS-CoV-2 to other viruses and diseases. Simply, after identifying the receptors that disease-causing viruses use for cell entry, our aim is to prepare a SunTag-fused receptor library. Then, we will characterize all the library elements in terms of their viral neutralization efficiency. Finally, we will determine potential drugs to be used in clinical trials for these diseases. </p>
           </div>
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="scheme.png" alt="Generic placeholder image">
+            <img class="featurette-image img-fluid mx-auto" src="scheme.png">
           </div>
         </div>
       </div>  
+      
+  
         
 ### Check out our BioRxiv preprint
 
-[https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract](https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract)
+<div class="container marketing">
+      <div class="row featurette">
+          <div class="col-md-7">
+            <p>[https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract](https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract)</p>
+          </div>
+          <div class="col-md-5">
+            <img class="featurette-image img-fluid mx-auto" src="ss.png">
+          </div>
+        </div>
+      </div>
+      
+
 
 ### Inventors
  <div class="container marketing">
