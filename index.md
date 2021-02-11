@@ -46,7 +46,7 @@
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="ugur.png" width="140" height="140">
-            <h2>Uğur Akcan</h2>
+            <h2>Uğur      Akcan</h2>
             <p>PhD Candidate in Neuroscience</p>
                <a href="https://twitter.com/occludens" target="_blank">
     <i class="fa fa-twitter"></i>
