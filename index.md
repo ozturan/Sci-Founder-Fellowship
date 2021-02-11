@@ -21,10 +21,10 @@
 <div class="container marketing">
       <div class="row featurette">
           <div class="col-md-7">
-            [https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract](https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract)
+            <a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract">
           </div>
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="ss.png">
+           <img class="featurette-image img-fluid mx-auto" src="ss.png"></a>
           </div>
         </div>
       </div>
