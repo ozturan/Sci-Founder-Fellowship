@@ -1,9 +1,5 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 
-## Homepage
-
-### Introduction
-
 We are going to design and produce stable, active and targeted receptor-based drugs to combat various infectious diseases such as COVID-19. 
 
 Viruses use receptor proteins to enter host cells. Solubilized decoy receptors have already  been used to bind viruses extracellularly to block cell entry. However, as viruses have many surface proteins, these monomeric decoy receptors need to be used in high concentrations. Our idea is to use a sophisticated multimerization system called “SunTag” to create a chain of decoy receptors. We aim to cover the whole surface of the virus with these particles and block the cell entry much more efficiently.
