@@ -38,7 +38,7 @@
         <div class="row">
           <div class="col-lg-4">
             <img class="rounded-circle" src="alisan.png" width="140" height="140">
-            <h2>Alişan Kayabölen, PhD</h2>
+            <h3>Alişan Kayabölen, PhD</h3>
             <p>Post-doctoral Fellow in Molecular Biology</p>
             <a href="https://twitter.com/alisankayabolen" target="_blank">
     <i class="fa fa-twitter"></i>
@@ -46,7 +46,7 @@
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="ugur.png" width="140" height="140">
-            <h2>Uğur               Akcan</h2>
+            <h3>Uğur Akcan</h3>
             <p>PhD Candidate in Neuroscience</p>
                <a href="https://twitter.com/occludens" target="_blank">
     <i class="fa fa-twitter"></i>
@@ -54,7 +54,7 @@
           </div><!-- /.col-lg-4 -->   
           <div class="col-lg-4">
             <img class="rounded-circle" src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" width="140" height="140">
-            <h2>Doğancan Özturan</h2>
+            <h3>Doğancan Özturan</h3>
             <p>PhD Candidate in Biomedical Sciences</p>  
                <a href="https://twitter.com/dogancan" target="_blank">
     <i class="fa fa-twitter"></i>
