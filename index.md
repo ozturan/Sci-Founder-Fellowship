@@ -14,7 +14,7 @@
             <h2>Alisan Kayabolen, PhD</h2>
             <p>Post-doctoral Fellow</p>
              <a class="btn btn-block btn-social btn-twitter">
-    <span class="fa fa-twitter"></span> Sign in with Twitter
+    <span class="fa fa-twitter"></span>
   </a>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
