@@ -22,7 +22,7 @@
 
 <div class="container marketing">
       <div class="row featurette">
-          <div class="col-md-7">
+          <div class="col-md-8">
             <a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract" target="_blank">https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1.abstract</a>
           </div>
           <div class="col-md-5">
@@ -48,11 +48,17 @@
             <img class="rounded-circle" src="ugur.png" width="140" height="140">
             <h2>Ugur Akcan</h2>
             <p>PhD Candidate in Neuroscience</p>
+               <a href="https://twitter.com/occludens">
+    <i class="fa fa-twitter"></i>
+  </a>
           </div><!-- /.col-lg-4 -->   
           <div class="col-lg-4">
             <img class="rounded-circle" src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" width="140" height="140">
             <h2>Dogancan Ozturan</h2>
-            <p>PhD Candidate in Biomedical Sciences</p>     
+            <p>PhD Candidate in Biomedical Sciences</p>  
+               <a href="https://twitter.com/dogancan">
+    <i class="fa fa-twitter"></i>
+  </a>
           </div><!-- /.col-lg-4 -->
         </div>
       </div>
