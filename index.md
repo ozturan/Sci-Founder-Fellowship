@@ -11,6 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ### Inventors
-![Image](https://avatars.githubusercontent.com/u/2972709?s=150&v=4)
-
-
+![Image](https://avatars.githubusercontent.com/u/2972709?s=460&u=dd146f3a230e06837b9c50993fadba5bb357a496&v=4#thumbnail){
+   width:150px;
+   height:100px;
+}
