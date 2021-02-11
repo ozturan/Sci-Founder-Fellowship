@@ -38,7 +38,7 @@
         <div class="row">
           <div class="col-lg-4">
             <img class="rounded-circle" src="alisan.png" width="140" height="140">
-            <h3>Alişan Kayabölen, PhD</h3>
+            <h3>Alişan Kayabölen</h3>
             <p>Post-doctoral Fellow in Molecular Biology</p>
             <a href="https://twitter.com/alisankayabolen" target="_blank">
     <i class="fa fa-twitter"></i>
