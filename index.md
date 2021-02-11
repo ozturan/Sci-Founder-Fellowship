@@ -47,7 +47,7 @@
           <div class="col-lg-4">
             <img class="rounded-circle" src="ugur.png" width="140" height="140">
             <h3>Uğur Akcan</h3>
-            <p>PhD Candidate in Neuroscience</p>
+            <p>PhD Candidate in Neurological Sciences</p>
                <a href="https://twitter.com/occludens" target="_blank">
     <i class="fa fa-twitter"></i>
   </a>
