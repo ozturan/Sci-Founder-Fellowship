@@ -15,7 +15,7 @@ We want to expand our preliminary results on the SARS-CoV-2 to other viruses and
   <div class="container marketing">
         <div class="row">
           <div class="col-lg-4">
-            <img class="rounded-circle" src="/alisan.png" width="140" height="140">
+            <img class="rounded-circle" src="alisan.png" width="140" height="140">
             <h2>Alisan Kayabolen, PhD</h2>
             <p>Post-doctoral Fellow in Molecular Biology</p>
             <a class="btn btn-social-icon btn-twitter">
@@ -23,12 +23,12 @@ We want to expand our preliminary results on the SARS-CoV-2 to other viruses and
   </a>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="rounded-circle" src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" width="140" height="140">
+            <img class="rounded-circle" src="ugur.png" width="140" height="140">
             <h2>Ugur Akcan</h2>
             <p>PhD Candidate in Neuroscience</p>
           </div><!-- /.col-lg-4 -->   
           <div class="col-lg-4">
-            <img class="rounded-circle" src="/ugur.png" width="140" height="140">
+            <img class="rounded-circle" src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" width="140" height="140">
             <h2>Dogancan Ozturan</h2>
             <p>PhD Candidate in Biomedical Sciences</p>     
           </div><!-- /.col-lg-4 -->
