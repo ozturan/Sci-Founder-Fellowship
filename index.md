@@ -21,7 +21,7 @@
             <img class="rounded-circle" src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" alt="Generic placeholder image" width="140" height="140">
             <h2>Ugur Akcan</h2>
             <p>PhD Candidate in Neuroscience</p>
-          </div><!-- /.col-lg-4 -->
+          </div><!-- /.col-lg-4 -->   
           <div class="col-lg-4">d
             <img class="rounded-circle" src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" alt="Generic placeholder image" width="140" height="140">
             <h2>Dogancan Ozturan</h2>
