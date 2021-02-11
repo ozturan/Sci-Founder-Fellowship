@@ -11,4 +11,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ### Inventors
-<img src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" alt="MarineGEO circle logo" style="height: 50px; width:50px;"/>
+<img src="https://lacklab.ku.edu.tr/images/dogancan_s.jpg" alt="MarineGEO circle logo" style="height: 50px; width:50px; border-radius:50%";>
