@@ -23,7 +23,7 @@
 <div class="container marketing">
       <div class="row featurette">
           <div class="col-md-7">
-            <p class="lead"><a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1" target="_blank">https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1</a>
+            <p class="lead"><a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1" target="_blank">https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1</a></p>
           </div>
           <div class="col-md-5">
            <a href="https://www.biorxiv.org/content/10.1101/2021.01.04.425128v1" target="_blank"><img class="featurette-image img-fluid mx-auto" src="ss.png"></a>
